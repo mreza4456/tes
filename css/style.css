@@ -1,26 +1,10 @@
 
-.container {
-    position: relative;
-}
-
-
 
 body {
  
     background-color: #faf0de;
 }
-    
-    
-
-
-
-
-}
-.overflow{
-    overflow-x: hidden;
-}
-
-
+ 
 h1 {
     font-size: 3rem;
     font-family: "Cookie", cursive;
